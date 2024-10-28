@@ -5,5 +5,7 @@ install.packages(c(
   "readr",
   "tidyverse",
   "caTools",
-  "ROCR"
+  "ROCR",
+  "rpart",
+  "rpart.plot"
 ))
