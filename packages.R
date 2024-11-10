@@ -12,5 +12,7 @@ install.packages(c(
   "rpart",
   "rpart.plot",
   "caret",
-  "e1071"
+  "e1071",
+  "forecast",
+  "tseries"
 ))
